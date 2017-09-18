@@ -1,0 +1,40 @@
+package in.vamsoft;
+
+public class Plane extends Vehicle implements Flying {
+
+	public Plane() {
+		// TODO Auto-generated constructor stub
+	}
+	public static void main(String[] args) {
+		System.out.println("Plane.main()");
+	}
+
+	@Override
+	public void takeOff() {
+		System.out.println("Plane.takeOff()");
+		
+	}
+
+	@Override
+	public void land() {
+		System.out.println("Plane.land()");
+	}
+
+	@Override
+	public void start() {
+	System.out.println("Plane.start()");	
+	}
+
+	@Override
+	public void stop() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void brake() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

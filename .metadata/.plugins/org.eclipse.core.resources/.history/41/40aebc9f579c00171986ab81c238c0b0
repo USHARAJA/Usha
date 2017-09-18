@@ -1,0 +1,43 @@
+package in.vamsoft;
+
+public class Plain extends Vehical implements Flying {
+
+	public Plain() {
+		// TODO Auto-generated constructor stub
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void takeOff() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void land() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void start() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void stop() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void brake() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

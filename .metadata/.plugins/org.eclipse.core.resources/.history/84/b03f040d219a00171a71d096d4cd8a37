@@ -1,0 +1,19 @@
+package in.vamsoft;
+
+public class SportsCar extends Car {
+	public SportsCar () {
+		System.out.println("SportsCar.vehical()");
+	}
+		public void brake()
+		{
+			System.out.println("SportsCar.SportsCar()");
+		}
+		public void stop()
+		{
+			System.out.println("SportsCar.SportsCar()");
+		}
+		
+	}
+	
+
+

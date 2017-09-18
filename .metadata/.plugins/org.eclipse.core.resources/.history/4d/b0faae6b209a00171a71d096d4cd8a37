@@ -1,0 +1,10 @@
+package in.vamsoft;
+
+public class extends Car {
+	public class SportsCar () {
+		System.out.println("SportsCar.vehical()");
+		
+	}
+	
+
+}

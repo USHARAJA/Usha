@@ -1,0 +1,13 @@
+package in.vam;
+
+import in.vamsoft.SportsCar;
+
+public class Test {
+
+	public static void main(String[] args) {
+	
+		SportsCar car=new SportsCar();
+		System.out.println(car);
+	}
+
+}

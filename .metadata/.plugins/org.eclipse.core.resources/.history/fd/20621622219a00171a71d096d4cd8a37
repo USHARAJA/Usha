@@ -1,0 +1,11 @@
+package in.vamsoft;
+
+public abstract class Car extends Vehical {
+	public void start() {
+		
+		System.out.println("Car.start()");
+		
+	}
+	
+
+}

@@ -1,0 +1,10 @@
+package in.vamsoft;
+
+public class SportsCar {
+	public vehical() {
+		System.out.println("SportsCar.vehical()");
+		
+	}
+	
+
+}

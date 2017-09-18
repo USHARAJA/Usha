@@ -1,0 +1,8 @@
+package in.vamsoft;
+
+public interface Flying {
+	void takeOff();
+	void land();
+	
+
+}
